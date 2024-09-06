@@ -1,0 +1,48 @@
+2024-09-06 21:32:22 | INFO | Connected to MongoDB
+2024-09-06 21:32:22 | INFO | Document created with ID: 66db278e04439130e93b4728
+2024-09-06 21:32:22 | INFO | Document found: {'_id': ObjectId('66db278e04439130e93b4728'), 'name': 'John', 'age': 30}
+2024-09-06 21:32:22 | INFO | Documents updated: 1
+2024-09-06 21:32:22 | INFO | Documents deleted: 1
+2024-09-06 21:32:22 | INFO | MongoDB connection closed
+2024-09-06 21:37:01 | INFO | Connected to MongoDB
+2024-09-06 21:37:03 | INFO | Document created with ID: 66db28a5886abc21207fe248
+2024-09-06 21:37:03 | INFO | Document found: {'_id': ObjectId('66db28a5886abc21207fe248'), 'name': 'John', 'age': 30}
+2024-09-06 21:37:03 | INFO | Documents updated: 1
+2024-09-06 21:37:03 | INFO | Documents deleted: 1
+2024-09-06 21:37:03 | INFO | MongoDB connection closed
+2024-09-06 21:39:41 | INFO | Connected to MongoDB
+2024-09-06 21:39:43 | INFO | Document created with ID: 66db2945e43cb8bdb554537e
+2024-09-06 21:39:43 | INFO | Document found: {'_id': ObjectId('66db2945e43cb8bdb554537e'), 'name': 'John', 'age': 30}
+2024-09-06 21:39:43 | INFO | Documents updated: 1
+2024-09-06 21:39:43 | INFO | Documents deleted: 1
+2024-09-06 21:39:43 | INFO | MongoDB connection closed
+2024-09-06 21:39:47 | INFO | Connected to MongoDB
+2024-09-06 21:39:47 | INFO | Document created with ID: 66db294b17fa0b792fe6bc81
+2024-09-06 21:39:47 | INFO | Document found: {'_id': ObjectId('66db294b17fa0b792fe6bc81'), 'name': 'John', 'age': 30}
+2024-09-06 21:39:47 | INFO | Documents updated: 1
+2024-09-06 21:39:47 | INFO | Documents deleted: 1
+2024-09-06 21:39:47 | INFO | MongoDB connection closed
+2024-09-06 21:39:50 | INFO | Connected to MongoDB
+2024-09-06 21:39:51 | INFO | Document created with ID: 66db294e704e7ff776e42b1b
+2024-09-06 21:39:51 | INFO | Document found: {'_id': ObjectId('66db294e704e7ff776e42b1b'), 'name': 'John', 'age': 30}
+2024-09-06 21:39:51 | INFO | Documents updated: 1
+2024-09-06 21:39:51 | INFO | Documents deleted: 1
+2024-09-06 21:39:51 | INFO | MongoDB connection closed
+2024-09-06 21:40:09 | INFO | Connected to MongoDB
+2024-09-06 21:40:10 | INFO | Document created with ID: 66db2961b85436020aa59241
+2024-09-06 21:40:10 | INFO | Document found: {'_id': ObjectId('66db2961b85436020aa59241'), 'name': 'John', 'age': 30}
+2024-09-06 21:40:10 | INFO | Documents updated: 1
+2024-09-06 21:40:10 | DEBUG | Documents deleted: 1
+2024-09-06 21:40:10 | INFO | MongoDB connection closed
+2024-09-06 21:40:20 | INFO | Connected to MongoDB
+2024-09-06 21:40:21 | INFO | Document created with ID: 66db296cebcef69cceff7ef0
+2024-09-06 21:40:21 | INFO | Document found: {'_id': ObjectId('66db296cebcef69cceff7ef0'), 'name': 'John', 'age': 30}
+2024-09-06 21:40:21 | INFO | Documents updated: 1
+2024-09-06 21:40:21 | CRITICAL | Documents deleted: 1
+2024-09-06 21:40:21 | INFO | MongoDB connection closed
+2024-09-06 21:40:41 | INFO | Connected to MongoDB
+2024-09-06 21:40:42 | INFO | Document created with ID: 66db29812cec074862b40ae6
+2024-09-06 21:40:42 | INFO | Document found: {'_id': ObjectId('66db29812cec074862b40ae6'), 'name': 'John', 'age': 30}
+2024-09-06 21:40:42 | INFO | Documents updated: 1
+2024-09-06 21:40:42 | ERROR | Documents deleted: 1
+2024-09-06 21:40:42 | INFO | MongoDB connection closed

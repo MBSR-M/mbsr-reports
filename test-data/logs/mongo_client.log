@@ -1,0 +1,6 @@
+2024-09-06 21:26:34 | INFO | Connected to MongoDB
+2024-09-06 21:26:34 | INFO | Document created with ID: 66db263277bec94516cc319c
+2024-09-06 21:26:34 | INFO | Document found: {'_id': ObjectId('66db263277bec94516cc319c'), 'name': 'John', 'age': 30}
+2024-09-06 21:26:34 | INFO | Documents updated: 1
+2024-09-06 21:26:34 | INFO | Documents deleted: 1
+2024-09-06 21:26:34 | INFO | MongoDB connection closed

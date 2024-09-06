@@ -1,0 +1,70 @@
+# Byte-compiled files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+egg-info/
+pip-wheel-metadata/
+*.egg
+*.egg-info
+*.eggs
+MANIFEST
+
+# Environment variables and virtual environment
+.env
+venv/
+ENV/
+env/
+*.env
+*.venv
+*.ENV
+*.envrc
+
+# Log files
+*.log
+
+# Database files
+*.sqlite3
+*.db
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE/editor files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+*.project
+*.pydevproject
+
+# Other files
+*.bak
+*.tmp
+*.swp
+*.swo
+*.lock
+*.pid
+
+# Test coverage
+.coverage
+coverage.xml
+nosetests.xml
+test_coverage/
+
+
+# IDE/editor files
+test-data
+test-data/*
